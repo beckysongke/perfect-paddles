@@ -13,3 +13,19 @@ h1{
   font-size:300px
 
 }
+
+.page-title{
+  color:red;
+}
+
+.page-title-enjoy{
+  text-transform:uppercase;
+}
+
+/*.page-title.page-title-enjoy{
+  color:darkturquoise dont use this one
+}*/
+
+.kayak{
+ boarder-ridus:50px
+}
